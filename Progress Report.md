@@ -12,3 +12,6 @@ connect all of the wire together to my arduino. I have coded most of it I just n
 This week I will be doing test swatches of the scarf to see what yarn thickness will work best for me. I then will weave the
 shape memory alloy through the scarf and connect it to an arduino so that when it is worn and the temperature changes at a 
 certain threshold it will change shape. 
+
+These are progress photos:
+https://drive.google.com/a/cca.edu/folderview?id=0B6Q72GyYZNU_RlVYbVd1Ukp0V1k&usp=sharing
