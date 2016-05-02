@@ -11,3 +11,11 @@ I assume my main challenges will be weaving the alloy into the scarf, I hear it 
 
 Project Timeline-
 I will need to create my scarf wihtin the next week or so, I will then need to weave the alloy into the scarf and begin testing the contraction in the following weeks. I need to connect all the componenets and test if they all run correctly. I will be finishing this project in the next 5 weeks with several stages. 
+
+
+
+Summary post project-
+
+I have created a working prototype of my shape changing scarf. The shape memory alloy works by starting off bended because the scarf is scrunched up. Then if the temperature is above 75 degrees the scarf will expand! I tested the shape memory alloy and used different materials to see which would be the easiest to change shape. I knitted a small prototype of my large scarf and wove shape memory alloy through it and used silver crimp beads to secure the shape memory alloy throughout the scarf. I found that I was only able to run current through the shape memory alloy seperatly for each piece. I thought I would be able to connect all of them at the end and have only 1 connection on each side,there was not enough current to change the shape of all the shape memory alloy. I want to create a large version of this scarf and will run current through every individual piece of shape memory alloy, I need to figure out a clean and simple way to include all of those wires in a scarf. 
+
+I am very happy about my project because it works! My idea has carried throughout the entire project and made into a true shape changing scarf based on the temperature. I learned how to work with shape memory alloy which was a huge feat because it is extremely finicky and easy to waste the material. I learned how to include a temperature sensor in my project and I also learned how to knit! I learned how to run current through my shape memory alloy and to correctly wire my arduino and write code that works!  
