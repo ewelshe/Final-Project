@@ -65,3 +65,20 @@ else
 }
  delay(1000); 
 }
+
+PROJECT TESTING AND DEBUGGING
+I tested the shape memory alloy with a heat gun and watched it change in size drastically, but this peice of SMA was ruined becaus
+too much heat was applied to it. 
+
+I then hooked up my SMA to an arduino and ran current through the wire. I bended the wire and watched it jump and change drastically in shape
+I wove it through paper but it didnt change the shape of the paper (paper was to test if it would change shape of a scarf). I realized that it 
+wasn't gripping on the paper
+I experimented with weaving the shape memory alloy through different swatches of yarn and I purchased silver crimp beads to help the wire
+stay attatched to the knit, it worked and changed the shape of the scarf. I then needed to figure out how to include more than one
+wire in the scarf.
+I began to try connecting the wires and found that teh current was not running through the wires well.
+I knit my scarf prototype and tried to run 6 SMA segments through the scarf.  I changed the power source to vin instead of 5V and i burned my self
+and holes in my scarf. The power was too strong but it still was not travelling through the sma segments.
+I found that each segment had to be connected to power seperately. I was unable to connect every single segement.
+I attatched a temperature sensor to the arduino and made it so if it was above a certain temperature, the current would run throught the
+SMA resulting in a changing shape, the goal of my project! 
